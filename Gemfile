@@ -108,4 +108,5 @@ group :site do
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jemoji"
+  gem 'jekyll-timeago', '~> 0.15.0'
 end
